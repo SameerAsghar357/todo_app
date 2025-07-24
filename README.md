@@ -12,6 +12,7 @@ A simple task management app built with Flutter. This beginner-friendly project 
 
 
 - 📸 Screenshot
+  
 ![todo_app](https://github.com/user-attachments/assets/dcf1385b-c29a-4e87-93e4-6092b62dcbc9)
 
 
